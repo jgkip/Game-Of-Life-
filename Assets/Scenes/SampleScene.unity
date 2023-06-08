@@ -236,8 +236,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c84e49f7098ec2a44bbe27b09006d144, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _width: 16
-  _height: 9
+  _rows: 16
+  _cols: 9
   _prefab: {fileID: 7957126749892342425, guid: cac2876c2d0defb49b57bde1697e6381, type: 3}
   _cam: {fileID: 519420032}
 --- !u!4 &1312406766
